@@ -2,6 +2,7 @@ import java.lang.String;
 import java.util.Scanner;
 public class circle {
     public static void main(String[] args) {
+        //Enter a number and it will calculate the circumference of it!!
         String man=mj();
         System.out.println("the area and circumference of circle are :"+man);
     }
